@@ -23,7 +23,7 @@ function SalesApp() {
         <table className=' w-[50%] border-4'>
             <tr className=' border-3'>
                 <th>Items</th>
-                <th>Quantity</th>
+                <th>Qty</th>
                 <th>Price</th>
                 <th>Cost</th>
             </tr>
